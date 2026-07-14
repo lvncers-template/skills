@@ -24,3 +24,6 @@
 | `worktree-create-already-onremote` | `skills/worktree/worktree-create-already-onremote/SKILL.md` | P3 | `true`               |
 | `worktree-remove`              | `skills/worktree/worktree-remove/SKILL.md`           | P3       | `true`                    |
 | `setup-init-bare`              | `skills/worktree/setup-init-bare/SKILL.md` (+ `scripts/`) | P3  | `true`                    |
+| `submodule-remove`             | `skills/git/submodule-remove/SKILL.md`               | P3       | `true`                    |
+| `slide-draft`                  | `skills/slides/slide-draft/SKILL.md`                 | -        | 未指定（自動起動可）      |
+| `slide-slidev`                 | `skills/slides/slide-slidev/SKILL.md`                | -        | 未指定（自動起動可）      |

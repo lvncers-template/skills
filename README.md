@@ -9,7 +9,6 @@
 
 | skill                        | パス                                                | フェーズ | disable-model-invocation |
 | ----------------------------- | ---------------------------------------------------- | -------- | ------------------------- |
-| `grill-with-docs`             | `skills/planning/grill-with-docs/SKILL.md`           | P1       | 未指定（自動起動可）      |
 | `worktree-list`                | `skills/worktree/worktree-list/SKILL.md`             | P1       | 未指定（自動起動可）      |
 | `pr-review`                    | `skills/github/pr-review/SKILL.md`                   | P1       | 未指定（自動起動可）      |
 | `pr-review-commit-driven`      | `skills/github/pr-review-commit-driven/SKILL.md`     | P1       | 未指定（自動起動可）      |
